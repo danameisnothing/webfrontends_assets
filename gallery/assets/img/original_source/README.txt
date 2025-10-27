@@ -15,3 +15,6 @@ https://cdn.mos.cms.futurecdn.net/c4wxZubAdpo9v2U3WRC5gS.jpg, taken from https:/
 
 Button asset :
 https://www.cultofthelamb.com/images/sidebar/button.png
+
+CardBack Trinket :
+https://cult-of-the-lamb.fandom.com/wiki/Category:Wiki_skin_images
