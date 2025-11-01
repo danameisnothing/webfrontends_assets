@@ -18,3 +18,9 @@ https://www.cultofthelamb.com/images/sidebar/button.png
 
 CardBack Trinket :
 https://cult-of-the-lamb.fandom.com/wiki/Category:Wiki_skin_images
+
+Playlist Background (used for card desc) :
+https://www.cultofthelamb.com/images/trailer/playlist-bg.png
+
+Eye Divider (we don't care about the middle eye thing) :
+https://cult-of-the-lamb.fandom.com/wiki/File:Eye_Divider.png
