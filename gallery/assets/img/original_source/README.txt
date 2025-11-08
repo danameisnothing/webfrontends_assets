@@ -24,3 +24,6 @@ https://www.cultofthelamb.com/images/trailer/playlist-bg.png
 
 Eye Divider (we don't care about the middle eye thing) :
 https://cult-of-the-lamb.fandom.com/wiki/File:Eye_Divider.png
+
+CotL image :
+https://static.wikia.nocookie.net/cult-of-the-lamb/images/8/8f/COTL_Logo_Red.png (it's a lie, this is a WebP image)
