@@ -30,3 +30,6 @@ https://static.wikia.nocookie.net/cult-of-the-lamb/images/8/8f/COTL_Logo_Red.png
 
 ESRB thing :
 https://www.cultofthelamb.com/svgs/t.svg
+
+Massive Monster logos :
+https://influencers.devolverdigital.com/cult-of-the-lamb
