@@ -27,3 +27,6 @@ https://cult-of-the-lamb.fandom.com/wiki/File:Eye_Divider.png
 
 CotL image :
 https://static.wikia.nocookie.net/cult-of-the-lamb/images/8/8f/COTL_Logo_Red.png (it's a lie, this is a WebP image)
+
+ESRB thing :
+https://www.cultofthelamb.com/svgs/t.svg
